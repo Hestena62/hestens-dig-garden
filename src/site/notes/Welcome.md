@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/welcome/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"dg-home":true,"permalink":"/welcome/","tags":["gardenEntry"],"dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 This is your new *vault*.
