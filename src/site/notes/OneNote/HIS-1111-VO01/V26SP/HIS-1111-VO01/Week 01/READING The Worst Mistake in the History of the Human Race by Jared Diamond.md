@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/week-01/reading-the-worst-mistake-in-the-history-of-the-human-race-by-jared-diamond/","dgPassFrontmatter":true,"created":"2026-02-24T20:43:52.131-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/week-01/reading-the-worst-mistake-in-the-history-of-the-human-race-by-jared-diamond/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ==Discover Magazine==  

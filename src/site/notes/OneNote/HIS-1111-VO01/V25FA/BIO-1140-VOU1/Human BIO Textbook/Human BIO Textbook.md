@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/human-bio-textbook/","dgPassFrontmatter":true,"created":"2025-09-06T12:44:28.711-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/human-bio-textbook/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Overview**  

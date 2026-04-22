@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/eng-1061-vo-17-s/important-info/welcome/","dgPassFrontmatter":true,"created":"2026-01-29T15:49:18.794-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/eng-1061-vo-17-s/important-info/welcome/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 Welcome to English composition. Language is the core skill through which all other learning takes place. The ability to communicate clearly, efficiently, and eloquently in writing will serve you well regardless of the path your personal and professional life may take. This course is designed to:

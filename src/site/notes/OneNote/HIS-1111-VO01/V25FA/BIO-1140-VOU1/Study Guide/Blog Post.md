@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/blog-post/","dgPassFrontmatter":true,"created":"2025-10-08T18:44:11.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/blog-post/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Your Reality Is a Hoax: 5 Mind-Bending Truths About Your Senses

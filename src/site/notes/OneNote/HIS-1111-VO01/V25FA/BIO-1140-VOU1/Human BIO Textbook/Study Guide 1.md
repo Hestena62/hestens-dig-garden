@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/study-guide-1/","dgPassFrontmatter":true,"created":"2025-11-10T12:31:12.000-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/study-guide-1/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Abnormal Immune Function and Responses Study Guide

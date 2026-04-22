@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/14-text-files/","dgPassFrontmatter":true,"created":"2025-09-29T08:55:54.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/14-text-files/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 ![[The_Journey_of_a_Signal.mp4\|The_Journey_of_a_Signal.mp4]]

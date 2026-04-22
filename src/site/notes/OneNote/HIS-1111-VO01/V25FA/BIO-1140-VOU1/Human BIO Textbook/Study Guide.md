@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/study-guide/","dgPassFrontmatter":true,"created":"2025-10-22T18:01:37.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/study-guide/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Blood and Its Components: A Comprehensive Study Guide

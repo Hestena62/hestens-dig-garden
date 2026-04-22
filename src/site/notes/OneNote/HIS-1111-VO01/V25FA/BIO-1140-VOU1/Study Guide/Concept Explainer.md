@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/concept-explainer/","dgPassFrontmatter":true,"created":"2025-10-08T18:45:22.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/concept-explainer/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Our Amazing Senses: Understanding the Receptors That Shape Our World

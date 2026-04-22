@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/study-guide/","dgPassFrontmatter":true,"created":"2025-10-08T18:41:44.000-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/study-guide/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Study Guide for Human Senses

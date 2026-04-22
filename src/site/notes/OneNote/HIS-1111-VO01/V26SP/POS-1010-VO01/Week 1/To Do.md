@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/to-do/","dgPassFrontmatter":true,"created":"2026-01-29T16:44:32.416-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/to-do/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 - **Read through all the information in the Course Information module.** (If you miss this, you will not understand when to post, how often to post, or what is expected in this course.)

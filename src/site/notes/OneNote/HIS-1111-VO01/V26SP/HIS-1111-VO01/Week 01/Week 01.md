@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/week-01/week-01/","dgPassFrontmatter":true,"created":"2026-01-29T15:44:56.069-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/week-01/week-01/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 **Prehistory and the Birth of Civilization**

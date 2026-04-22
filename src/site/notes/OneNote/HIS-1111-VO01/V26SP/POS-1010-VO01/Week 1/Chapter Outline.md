@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/chapter-outline/","dgPassFrontmatter":true,"created":"2026-01-29T16:44:56.417-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/chapter-outline/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 I.  Why Study Politics?

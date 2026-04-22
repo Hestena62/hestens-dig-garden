@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/blog-post/","dgPassFrontmatter":true,"created":"2025-11-10T12:30:41.000-05:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/blog-post/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
 # Your Body's Private Army: 5 Mind-Blowing Facts About Your Immune System
