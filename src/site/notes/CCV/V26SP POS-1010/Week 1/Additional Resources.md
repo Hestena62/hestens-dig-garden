@@ -1,0 +1,11 @@
+---
+{"dg-publish":true,"permalink":"/ccv/v26-sp-pos-1010/week-1/additional-resources/","dgPassFrontmatter":true,"dg-note-properties":{}}
+---
+
+- Gateways to Politics on the Web [(http://www.politicalinformation.com/) Links to an external site.](http://www.politicalinformation.com/)contains thousands of political and policy websites in categories such as Campaigns and Elections, Parties and Organizations, Issues, Research Tools, then broken down into subcategories and so on.
+- Congressional Quarterly ([http://www.rollcall.com/politics/index.html?cqp=1 (Links to an external site.)](https://www.rollcall.com/)) takes you to CQ’s “Roll Call” blog.
+- Governing magazine ( [http://www.governing.com/politics.htm](http://www.governing.com/politics.htm) [(Links to an external site.)](http://www.governing.com/politics.htm)) is a monthly magazine for state and local government officials.
+- Politics1 ( [http://www.politics1.com/](http://www.politics1.com/) [(Links to an external site.)](http://www.politics1.com/)) claims to be “the most comprehensive guide to U.S. politics.”
+- Taegan Goddard’s Political Wire ( [http://www.politicalwire.com/](http://www.politicalwire.com/) [(Links to an external site.)](http://www.politicalwire.com/)) has up-to-date coverage of news and commentary about politics.
+- Politico ( [http://www.politico.com/](http://www.politico.com/) [(Links to an external site.)](http://www.politico.com/)) is a site for comprehensive information on current affairs, especially the hot news from Capitol Hill and what Washington insiders are talking about.
+ \> From \<[https://vsc.instructure.com/courses/65983/pages/week-1-information-and-resources?module_item_id=4505387](https://vsc.instructure.com/courses/65983/pages/week-1-information-and-resources?module_item_id=4505387)\>    \> From \<[https://vsc.instructure.com/courses/65983/pages/week-1-information-and-resources?module_item_id=4505387](https://vsc.instructure.com/courses/65983/pages/week-1-information-and-resources?module_item_id=4505387)\>
