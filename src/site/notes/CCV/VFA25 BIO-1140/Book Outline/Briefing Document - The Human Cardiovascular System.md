@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccv/vfa-25-bio-1140/book-outline/briefing-document-the-human-cardiovascular-system/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"tags":["briefing-document"],"permalink":"/ccv/vfa-25-bio-1140/book-outline/briefing-document-the-human-cardiovascular-system/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["briefing-document"]}}
 ---
 
 ## Executive Summary

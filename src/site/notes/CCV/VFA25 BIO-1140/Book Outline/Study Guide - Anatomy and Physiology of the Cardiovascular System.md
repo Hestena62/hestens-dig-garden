@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccv/vfa-25-bio-1140/book-outline/study-guide-anatomy-and-physiology-of-the-cardiovascular-system/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"tags":["study-guide"],"permalink":"/ccv/vfa-25-bio-1140/book-outline/study-guide-anatomy-and-physiology-of-the-cardiovascular-system/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["study-guide"]}}
 ---
 
 # Quiz: Short-Answer Questions
