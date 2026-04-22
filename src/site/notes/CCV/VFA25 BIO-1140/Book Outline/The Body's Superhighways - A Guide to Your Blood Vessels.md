@@ -46,15 +46,14 @@ After passing through the capillary beds, blood is collected by venules to begin
 ## 6. At a Glance: Artery vs. Vein vs. Capillary
 This table synthesizes the key differences between the three main blood vessel types, serving as a concise summary and study guide.
 
-|   |   |   |   |
-|---|---|---|---|
-|Feature|Arteries|Veins|Capillaries|
-|**Direction of Blood Flow**|**Away** from the heart|**Toward** the heart|Connects arteries to veins|
-|**Blood Pressure**|High (pulsating)|Low (steady)|Steadily decreasing|
-|**Wall Thickness (Tunica Media)**|Thickest, muscular, and elastic|Thinner, less muscular|None (only a single layer of endothelium)|
-|**Lumen (Internal Space) Size**|Relatively smaller and round|Larger and often flatter|Extremely narrow (single red blood cell wide)|
-|**Valves Present?**|No|Yes (especially in limbs)|No|
-|**Primary Function**|High-pressure transport and distribution|Low-pressure collection and return|Exchange of gases, nutrients, and wastes|
+|              Feature              |                 Arteries                 |               Veins                |                  Capillaries                  |
+| :-------------------------------: | :--------------------------------------: | :--------------------------------: | :-------------------------------------------: |
+|    **Direction of Blood Flow**    |         **Away** from the heart          |        **Toward** the heart        |          Connects arteries to veins           |
+|        **Blood Pressure**         |             High (pulsating)             |            Low (steady)            |              Steadily decreasing              |
+| **Wall Thickness (Tunica Media)** |     Thickest, muscular, and elastic      |       Thinner, less muscular       |   None (only a single layer of endothelium)   |
+|  **Lumen (Internal Space) Size**  |       Relatively smaller and round       |      Larger and often flatter      | Extremely narrow (single red blood cell wide) |
+|        **Valves Present?**        |                    No                    |     Yes (especially in limbs)      |                      No                       |
+|       **Primary Function**        | High-pressure transport and distribution | Low-pressure collection and return |   Exchange of gases, nutrients, and wastes    |
 
 ### Conclusion: A Perfectly Coordinated System
 Each type of blood vessel in the human body—from the powerful, elastic aorta to the thinnest, most delicate capillary—possesses a unique structure that is perfectly suited for its function. The arteries are built for pressure, the veins are engineered for low-pressure return, and the capillaries are designed for intimate exchange.  
