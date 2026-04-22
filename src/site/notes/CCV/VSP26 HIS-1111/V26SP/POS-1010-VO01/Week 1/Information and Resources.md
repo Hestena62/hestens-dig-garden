@@ -1,0 +1,34 @@
+---
+{"dg-publish":true,"permalink":"/ccv/vsp-26-his-1111/v26-sp/pos-1010-vo-01/week-1/information-and-resources/","dgPassFrontmatter":true,"dg-note-properties":{}}
+---
+
+Introduction  
+Welcome to the first week of our course. Just as the course is an introduction, week one is really an introduction to the basic concepts you'll need to be familiar with as we move forward. It also discusses the academic discipline of political science--what it is, how it is divided up, and how political scientist approach it.
+ 
+Of particular importance this week are the concepts of politics, power, authority, and legitimacy. Take some time to think about them and about how they relate to each other. Keep in mind, too, that Magstadt (the author of our textbook) offers us one set of definitions, but there are others out there, particularly when it comes to politics.
+ 
+W. Phillips Shively, author of another introductory text, conceives of politics as "the making of common decisions, through power."1 Our text gives us the following definition: "The process by which a community selects rulers and empowers them to make decisions, take action to attain common goals, and reconcile conflicts within the community."2 As you think about "politics," think about the realms in which politics (and power) operate. Some of them are obvious: Congress, the election of representative, international relations, your local government. But politics in a more general sense can also apply in realms that we don't always think of a being "political." School boards can be political. What about "office politics"? Even your family has politics of a kind because, at root, politics is about who has power, influence, and the ability to use it. Eric Liu, whose Ted Talk we'll watch, talks about "power literacy"--the ability to understand power and use it to effect change. Do you know people, or can you identify people, with power literacy? I've also chosen Liu's talk because it builds on the idea of power and its place in politics (or in civics), because it is timely, and because it speaks to all of us and our place in creating and transforming society.
+ 
+You'll also want to pay attention to the definitions of "state," "nation," "nation-state," and "government." This might seem picky, but using the correct vocabulary is important in any discipline. It helps us build shared meaning and ensure clarity.
+ 
+Finally, this week, I want you to make time to work through the VSCS Library orientation. You can find it in its own module, right above week 1. Why do I want you to work through the Library module? For several reasons: 1) For some of the assignments in this course, you will need to use outside resources, and I want you to use reliable, peer-reviewed sources, not things that you find when you Google; 2) Learning how to use an academic library is part of the college experience; and 3) The Library module will teach you about plagiarism and citations, both of which are of paramount importance. Any time you use someone else's words, or ideas, you must provide a citation, and as this is a college course, you should provide a properly formatted citation, preferably using Chicago Notes and Bibliography style.Links to an external site.
+ 
+Addendum (Jan. 25, 2026):  
+I would be remiss if I didn't connect what is going on in our country today with our study of political science. Let me say at the outset that nothing I write here will be motivated by partisan politics, but rather by adherence to facts, or at least as close as I can get to them, by fidelity to the Constitution and to the principles our nation was built on, while noting at the same time that we approach those principles, but rarely get there. They are, or should be our guides, as should the Constitution, which is the supreme law of the land. It applies to citizens and non-citizens alike. If you are physically present in the United States, or one of its territories, you are protected by the Constitution, and importantly, by the first ten amendments to it, the Bill of Rights.
+ 
+Power, authority, and legitimacy are all being contested in Minneapolis this week, but the ramifications of that contest go far beyond Minneapolis. They touch on the very core of our republic and whether we are, or are going to continue to be a constitutional republic. Most republics, ours included, are governed by the rule of law meaning that everyone is equally subject to the law--and remember that the Constitution is the highest law of the land. We are all subject to it. There are no exceptions, at least not if we want to claim to be what we have claimed to be for 249 years.
+ 
+If you are not familiar with what has been happening on the streets of Minneapolis, or in particular what happened yesterday, when Alex Jeffrey Pretti was killed by federal agents, probably from Customs and Border Protection, and/or if you aren't sure what's at stake here, I suggest you watch Heather Cox Richardson's explanation on her YouTube channelLinks to an external site.. She's a well-known historian. Pay attention to how she connects what is happening in Minneapolis to larger question about our republic and its survival. Think about who is wielding power ("The capacity to influence or control the behavior of persons and institutions, whether by persuasion or coercion.") in the streets of Minneapolis and why? How is power being contested? By whom and according to what principles? Think about who is has authority ("Command of the obedience of society’s members by a government.") in this situation and by what right and is that authority being legitimately exercised? I've put some definitions from Magstadt below to help you think about all of this.
+ 
+Power: The capacity to influence or control the behavior of persons and institutions, whether by persuasion or coercion.
+ 
+Authority: Command of the obedience of society’s members by a government.
+ 
+Legitimacy: The exercise of political power in a community in a way that is voluntarily accepted by the members of that community.
+ 
+Legitimate Authority: The legal and moral right of a government to rule over a specific population and control a specific territory; the term legitimacy usually implies a widely recognized claim of governmental authority and voluntary acceptance on the part of the population(s) directly affected.
+      
+
+______________  
+1W. Phillips Shively, Power and Choice: An Introduction to Political Science (Lanham, MD: Rowman and Littlefield, 2019), 2.  
+2Magstadt, 597.
