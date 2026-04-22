@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/concept-overview/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-02T07:54:33.000-04:00","updated":"2026-04-21T20:19:14.792-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/study-guide/concept-overview/","dgPassFrontmatter":true,"created":"2025-10-02T07:54:33.000-04:00","dg-note-properties":{}}
 ---
 
 # The Spark of Thought: A Beginner's Guide to the Action Potential

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/additional-resources/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-29T16:46:41.020-05:00","updated":"2026-04-21T20:21:59.964-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/additional-resources/","dgPassFrontmatter":true,"created":"2026-01-29T16:46:41.020-05:00","dg-note-properties":{}}
 ---
 
 - Gateways to Politics on the Web [(http://www.politicalinformation.com/) Links to an external site.](http://www.politicalinformation.com/)contains thousands of political and policy websites in categories such as Campaigns and Elections, Parties and Organizations, Issues, Research Tools, then broken down into subcategories and so on.

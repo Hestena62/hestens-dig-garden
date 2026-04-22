@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/book-outline/blog-post/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-29T19:13:07.000-04:00","updated":"2026-04-21T20:20:27.612-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/book-outline/blog-post/","dgPassFrontmatter":true,"created":"2025-10-29T19:13:07.000-04:00","dg-note-properties":{}}
 ---
 
 # The Body's Superhighways: A Guide to Your Blood Vessels

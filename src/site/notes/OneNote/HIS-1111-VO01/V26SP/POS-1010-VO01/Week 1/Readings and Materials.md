@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/readings-and-materials/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-29T16:45:43.861-05:00","updated":"2026-04-21T20:21:55.435-04:00","dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/pos-1010-vo-01/week-1/readings-and-materials/","dgPassFrontmatter":true,"created":"2026-01-29T16:45:43.861-05:00","dg-note-properties":{}}
 ---
 
 **Reading**:  
