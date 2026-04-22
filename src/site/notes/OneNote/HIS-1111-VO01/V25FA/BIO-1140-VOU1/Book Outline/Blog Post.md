@@ -7,8 +7,6 @@
 ### Introduction: Your Body's Delivery System
 
 Imagine your body is a bustling city. To keep it running, you need a complex road network to deliver fuel, collect waste, and allow for communication. Your circulatory system's blood vessels work in much the same way. Arteries act as the high-speed superhighways leaving the city center (the heart), veins are the main streets bringing everything back, and capillaries are the tiny neighborhood roads where all the crucial drop-offs and pick-ups happen.  
-This guide will explore the three main types of blood vessels—arteries, veins, and capillaries—and reveal how their unique structure is perfectly designed to perform a specific job in keeping your body's "city" thriving. Let's take a tour of these superhighways, main streets, and neighborhood roads to see how each is uniquely engineered for its vital role.  
---------------------------------------------------------------------------------
 
 ## 1. The Three Main Players: An Overview
 
@@ -20,9 +18,7 @@ The cardiovascular system relies on three primary types of blood vessels to tran
 |**Artery**|Carries blood **away** from the heart under high pressure.|Has thick, muscular, and elastic walls to withstand the force of the heartbeat.|
 |**Vein**|Carries blood **toward** the heart under low pressure.|Has thinner walls and contains one-way valves to prevent the backflow of blood.|
 |**Capillary**|Connects arteries and veins; serves as the site of material exchange.|Has walls that are only a single cell thick to allow for easy diffusion.|
-
 While this overview highlights their different jobs, the key to their functional differences lies in their physical construction. Let's start by examining the fundamental three-layer structure that arteries and veins are built upon.  
---------------------------------------------------------------------------------
 
 ## 2. Built for the Job: The Layers of a Blood Vessel Wall
 
@@ -33,7 +29,6 @@ The central, blood-filled space inside any vessel is called the **lumen**. In ar
 - **Tunica Externa (Outer Layer):** This is the protective, outermost layer. It is made of strong connective tissue, rich in collagen fibers, that anchors the vessel to surrounding tissues. In very large vessels, this layer even contains its own tiny network of blood vessels, called the _vasa vasorum_ ("vessels of the vessels"), to nourish the outer wall.
 
 While arteries and veins share this basic structure, the thickness and composition of these layers vary dramatically, tailoring each vessel for its unique function.  
---------------------------------------------------------------------------------
 
 ## 3. Arteries: The High-Pressure Highways
 
@@ -44,7 +39,6 @@ Because they receive blood directly from the contracting ventricles, arteries mu
 - **Elastic Fibers:** The largest arteries contain a high concentration of elastic fibers. This allows them to expand and absorb the pressure surge with each heartbeat and then recoil, which helps propel the blood forward.
 
 As the main arterial highways branch out, they become smaller vessels called **arterioles**. Think of these as the "off-ramps" that lead to local tissues. Arterioles have a high proportion of smooth muscle, allowing them to precisely control blood flow into the delicate capillary beds by constricting or dilating. This control is further refined at the entrance to the capillary beds themselves, where rings of smooth muscle called **precapillary sphincters** act like faucets, opening to perfuse tissues or closing to bypass them based on the body's immediate needs.  
---------------------------------------------------------------------------------
 
 ## 4. Veins: The Low-Pressure Return Routes
 
@@ -55,7 +49,6 @@ By the time blood has traveled through the narrow arterioles and vast capillary 
 2. **Skeletal Muscle Pump:** Many veins are situated between skeletal muscles. When you move—for example, by walking—the contraction of your leg muscles squeezes the nearby veins. This compression pushes the low-pressure blood upward, past the one-way valves, effectively "milking" it back toward the heart.
 
 The smallest veins, known as **venules**, act as "on-ramps" that collect blood as it exits the capillaries before merging into larger veins for the final return trip.  
---------------------------------------------------------------------------------
 
 ## 5. Capillaries: The Neighborhood Exchange Zones
 
@@ -66,7 +59,6 @@ Their structure is uniquely suited for this crucial task:
 - **Narrow Diameter:** Capillaries are so narrow that red blood cells must pass through in **single file**. This slows down blood flow and maximizes the time available for exchange. As one instructor describes it, it’s as if the capillary gives each red blood cell a "hug," ensuring a thorough transfer of oxygen to the tissues and carbon dioxide from them.
 
 After passing through the capillary beds, blood is collected by venules to begin its journey back to the heart.  
---------------------------------------------------------------------------------
 
 ## 6. At a Glance: Artery vs. Vein vs. Capillary
 
