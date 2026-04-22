@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":["blog-post"],"permalink":"/ccv/vfa-25-bio-1140/book-outline/the-body-s-superhighways-a-guide-to-your-blood-vessels/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["blog-post"]}}
+{"dg-publish":true,"tags":["blog-post"],"aliases":["book blog"],"permalink":"/ccv/vfa-25-bio-1140/book-outline/the-body-s-superhighways-a-guide-to-your-blood-vessels/","dgPassFrontmatter":true,"dg-note-properties":{"tags":["blog-post"],"aliases":["book blog"]}}
 ---
 
 ### Introduction: Your Body's Delivery System
