@@ -23,7 +23,7 @@ The central, blood-filled space inside any vessel is called the **lumen**. In ar
 While arteries and veins share this basic structure, the thickness and composition of these layers vary dramatically, tailoring each vessel for its unique function.  
 
 ## 3. Arteries: The High-Pressure Highways
-The primary function of arteries is to carry blood **away** from the heart. An easy way to remember this is the mnemonic: **A**rteries carry blood **A**way.  
+The primary function of arteries is to carry blood **away** from the heart. An easy way to remember this is the mnemonic: Arteries carry blood **A**way.  
 Because they receive blood directly from the contracting ventricles, arteries must be able to withstand tremendous pressure. Their structure is a masterclass in functional design:
 - **Thick, Muscular Walls:** Arteries have a **tunica media** that is significantly thicker and more muscular than that of other vessels.
 - **Elastic Fibers:** The largest arteries contain a high concentration of elastic fibers. This allows them to expand and absorb the pressure surge with each heartbeat and then recoil, which helps propel the blood forward.
