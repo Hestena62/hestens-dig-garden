@@ -12,6 +12,7 @@ The cardiovascular system relies on three primary types of blood vessels to tran
 | **Artery**    | Carries blood **away** from the heart under high pressure.            | Has thick, muscular, and elastic walls to withstand the force of the heartbeat. |
 | **Vein**      | Carries blood **toward** the heart under low pressure.                | Has thinner walls and contains one-way valves to prevent the backflow of blood. |
 | **Capillary** | Connects arteries and veins; serves as the site of material exchange. | Has walls that are only a single cell thick to allow for easy diffusion.        |
+
 While this overview highlights their different jobs, the key to their functional differences lies in their physical construction. Let's start by examining the fundamental three-layer structure that arteries and veins are built upon.  
 
 ### 2. Built for the Job: The Layers of a Blood Vessel Wall
