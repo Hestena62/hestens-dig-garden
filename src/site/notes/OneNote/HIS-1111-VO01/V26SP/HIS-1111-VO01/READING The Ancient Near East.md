@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/reading-the-ancient-near-east/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/reading-the-ancient-near-east/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-02-24T20:43:53.327-05:00","updated":"2026-04-21T20:21:22.407-04:00","dg-note-properties":{}}
 ---
 
 **The Cradle of Civilization: Mesopotamia and the Rise of Sumer**  

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/briefing-document/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/human-bio-textbook/briefing-document/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-22T18:02:26.000-04:00","updated":"2026-04-21T20:19:50.608-04:00","dg-note-properties":{}}
 ---
 
 # Briefing Document: The Composition, Function, and Systems of Human Blood

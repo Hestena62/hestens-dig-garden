@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/book-outline/5-text/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/book-outline/5-text/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-09-29T08:56:18.000-04:00","updated":"2026-04-21T20:20:32.853-04:00","dg-note-properties":{}}
 ---
 
 Section 5.1: Overview of the Cardiovascular System  

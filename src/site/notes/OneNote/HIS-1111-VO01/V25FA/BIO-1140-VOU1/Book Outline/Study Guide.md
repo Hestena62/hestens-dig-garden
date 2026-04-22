@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/book-outline/study-guide/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v25-fa/bio-1140-vou-1/book-outline/study-guide/","dgPassFrontmatter":true,"noteIcon":"","created":"2025-10-29T19:12:01.000-04:00","updated":"2026-04-21T20:20:25.003-04:00","dg-note-properties":{}}
 ---
 
 # Study Guide: Anatomy and Physiology of the Cardiovascular System

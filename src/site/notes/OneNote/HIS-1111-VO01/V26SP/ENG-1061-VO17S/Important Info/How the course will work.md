@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/eng-1061-vo-17-s/important-info/how-the-course-will-work/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/eng-1061-vo-17-s/important-info/how-the-course-will-work/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-01-29T15:50:49.683-05:00","updated":"2026-04-21T20:21:04.782-04:00","dg-note-properties":{}}
 ---
 
 Instructional Tasks

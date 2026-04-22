@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/ccv/intro/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/ccv/intro/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-21T19:49:11.910-04:00","updated":"2026-04-21T19:49:58.503-04:00","dg-note-properties":{}}
 ---
 
 Hello, here you can find all my class notes for my CCV classes and more.

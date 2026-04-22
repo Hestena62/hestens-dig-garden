@@ -1,4 +1,4 @@
 ---
-{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/guns-germs-and-steal/","dgPassFrontmatter":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"/one-note/his-1111-vo-01/v26-sp/his-1111-vo-01/guns-germs-and-steal/","dgPassFrontmatter":true,"noteIcon":"","created":"2026-04-02T23:32:21.652-04:00","updated":"2026-04-21T20:21:26.140-04:00","dg-note-properties":{}}
 ---
 
