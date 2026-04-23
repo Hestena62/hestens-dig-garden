@@ -2,9 +2,10 @@
 {"dg-publish":true,"permalink":"/ccv/v25-fa-bio-1140/human-bio-textbook/book-outline/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
-|             |                                           |                                                                                                                                     |
-| ----------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+This chart aligns the textbook with the courses schedule
+
 | **Week**    | **Course Outline Topic**                  | **Corresponding Textbook Chapter(s)**                                                                                               |
+| ----------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
 | **Week 1**  | Histology                                 | Chapter 4: Organization and Regulation of Body Systems (Covers tissues and homeostasis)                                             |
 | **Week 2**  | The Integumentary System                  | Chapter 4: Organization and Regulation of Body Systems (Contains a section on the integumentary system)                             |
 | **Week 3**  | The Skeletal System and Muscular Systems  | Chapter 11: Skeletal System; Chapter 12: Muscular System                                                                            |

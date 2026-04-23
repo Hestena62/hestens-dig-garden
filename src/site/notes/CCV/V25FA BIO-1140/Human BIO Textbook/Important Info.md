@@ -3,7 +3,6 @@
 ---
 
 ### 📘 **General Overview**
-
 - **Publisher**: McGraw Hill, 2023
 - **Authors**: Sylvia S. Mader (noted for accessible science writing) & Michael Windelspecht (expert in digital learning and science communication)
 - **Structure**: 25 chapters organized into **7 units**, covering everything from basic biology to human evolution and ecology
@@ -11,7 +10,6 @@
 - **Focus Areas**: Relevance to current issues (e.g., COVID-19, climate change, CRISPR), diversity in science, and accessibility
  
 ### 🧬 **Core Biological Concepts**
-
 - **Characteristics of Life**: Organization, metabolism, homeostasis, responsiveness, reproduction, evolution
 - **Scientific Method**: Observation → Hypothesis → Experiment → Data → Conclusion → Peer Review
 - **Chemistry of Life**:
@@ -21,7 +19,6 @@
     - Organic molecules: Carbohydrates, lipids, proteins, nucleic acids
  
 ### 🧫 **Cell Biology & Tissues**
-
 - **Cell Theory**: All life is cellular; cells arise from preexisting cells
 - **Cell Types**: Prokaryotic vs. Eukaryotic
 - **Organelles**: Nucleus, ER, Golgi, lysosomes, mitochondria, cytoskeleton
@@ -33,7 +30,6 @@
     - Epithelial: Simple, stratified, glandular
  
 ### 🧠 **Organ Systems & Homeostasis**
-
 - **Systems Covered**: Cardiovascular, respiratory, digestive, urinary, nervous, endocrine, reproductive
 - **Homeostasis**: Maintained via feedback loops (e.g., temperature, blood pressure)
 - **Key Concepts**:
@@ -44,7 +40,6 @@
     - Hormonal regulation and reproduction
  
 ### 🛡️ **Immunity & Disease**
-
 - **Immune System**:
     - Innate: Barriers, inflammation, complement
     - Adaptive: B cells (antibodies), T cells (cytotoxic/helper)
@@ -54,19 +49,16 @@
     - Global diseases: HIV/AIDS, TB, malaria, influenza, COVID-19
  
 ### 🧪 **Metabolism & Energy**
-
 - **ATP Production**: Glycolysis → Citric Acid Cycle → Electron Transport Chain
 - **Fermentation**: Anaerobic backup when oxygen is limited
 - **Nutrition**: Macronutrients, vitamins, minerals, BMI, eating disorders
  
 ### 🧍‍♀️ **Human Structure & Function**
-
 - **Skeletal System**: Bone types, growth, remodeling, osteoporosis
 - **Muscular System**: Muscle fiber types, contraction mechanisms
 - **Nervous System**: Brain regions, neurotransmitters, sensory/motor pathways
  
 ### 🌍 **Evolution & Ecology**
-
 - **Human Evolution**: Fossil record, hominins, Denisovans
 - **Ecology**: Ecosystems, biogeochemical cycles, biodiversity, climate change
 - **Sustainability**: Human impact, conservation strategies
