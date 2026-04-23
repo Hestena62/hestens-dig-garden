@@ -10,7 +10,7 @@ Fall 2025
 [[CCV/V25FA INT-1050/Index\|Index]] Intro to self and society
 
 Spring 2026
-[[CCV/V26SP ENG-1061/index\|index]] Intro to English Lit
+[[CCV/V26SP ENG-1061/index\|index]] Intro to English Comp
 [[CCV/V26SP HIS-1111/index\|index]] World History 1
 [[CCV/V26SP HIS-1112/index\|index]] World History 2
 [[CCV/V26SP MAT-1030/index\|index]] Applied Math(s)
