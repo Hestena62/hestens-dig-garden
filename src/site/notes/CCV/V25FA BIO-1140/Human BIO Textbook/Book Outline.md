@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/ccv/v25-fa-bio-1140/human-bio-textbook/book-outline/","dgPassFrontmatter":true,"dg-note-properties":{}}
 ---
 
-This chart aligns the textbook with the courses schedule
+This chart aligns the textbook with the courses schedule.
 
 | **Week**    | **Course Outline Topic**                  | **Corresponding Textbook Chapter(s)**                                                                                               |
 | ----------- | ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
@@ -20,3 +20,4 @@ This chart aligns the textbook with the courses schedule
 | **Week 12** | The Reproductive Systems                  | Chapter 16: Reproductive System                                                                                                     |
 | **Week 13** | Pregnancy and Growth                      | Chapter 17: Development and Aging                                                                                                   |
 | **Week 14** | Development and Genetics                  | Chapter 18: Patterns of Chromosome Inheritance; Chapter 19: Patterns of Genetic Inheritance; Chapter 20: DNA Biology and Technology |
+**Note:** The textbook I used is note the one the Instructor had used.
